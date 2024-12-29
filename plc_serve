@@ -1,0 +1,2 @@
+#!/bin/sh
+DENO_SQLITE_PATH=./deno-libsqlite3.so deno serve --allow-env --allow-ffi --unstable-ffi --allow-net=esm.sh --host 127.0.0.1 --port 3027 plc_serve.ts

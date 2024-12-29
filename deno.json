@@ -1,0 +1,19 @@
+{
+  "nodeModulesDir": false,
+  "imports": {
+    "ts-dedent": "npm:ts-dedent@2.2.0",
+    "starry-night": "https://esm.sh/@wooorm/starry-night@3.5.0?bundle",
+    "starry-night-types": "npm:@wooorm/starry-night@3.5.0",
+    "starry-night-css": "https://ejm.sh/https://cdn.jsdelivr.net/npm/@wooorm/starry-night@3.5.0/style/both.css",
+    "hast-util-to-html": "npm:hast-util-to-html@9.0.4",
+    "hastscript": "npm:hastscript@9.0.0",
+    "hast": "npm:@types/hast@3.0.4",
+    "@db/sqlite": "jsr:@db/sqlite@0.12",
+    "@std/bytes": "jsr:@std/bytes@1.0.4",
+    "@atcute/cid": "npm:@atcute/cid@2.0.0",
+    "@atcute/cbor": "npm:@atcute/cbor@2.0.0",
+    "@atcute/crypto": "npm:@atcute/crypto@2.0.0",
+    "@atcute/multibase": "npm:@atcute/multibase@1.0.1",
+    "zod": "npm:zod@3.24.1"
+  }
+}

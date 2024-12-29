@@ -1,0 +1,29 @@
+{
+  "name": "refview",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atcute/car": "^1.1.1",
+    "@atcute/cbor": "^1.0.6",
+    "@atcute/client": "^2.0.6",
+    "@atcute/crypto": "^1.0.2",
+    "@ipld/dag-cbor": "^9.2.2",
+    "@std/assert": "npm:@jsr/std__assert",
+    "@std/bytes": "npm:@jsr/std__bytes",
+    "@types/node": "^22.10.2",
+    "axios": "^1.7.9",
+    "bun-kv": "redraskal/bun-kv#99631861d7637d7c06ed5903c763c1488ca5a507",
+    "comlink": "^4.4.2",
+    "flru": "^1.0.2",
+    "ixie": "^0.0.12",
+    "p-limit": "^6.1.0",
+    "piscina": "5.0.0-alpha.0",
+    "pretty-ms": "^9.2.0"
+  }
+}
